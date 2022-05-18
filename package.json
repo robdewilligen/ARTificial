@@ -1,0 +1,19 @@
+{
+  "name": "artificial",
+  "version": "1.0.0",
+  "description": "ARTificial website project",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robdewilligen/ARTificial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robdewilligen/ARTificial/issues"
+  },
+  "homepage": "https://github.com/robdewilligen/ARTificial#readme"
+}
