@@ -5,11 +5,14 @@ module.exports = {
     "./resources/**/*.vue",
   ],
   theme: {
+    fontFamily: {
+        'Bungee': 'cursive'
+    },
     colors: {
       'LogoGreen': '#058c42',
-      'BlackLogo': '232323',
-      'background': '#7b9568',
-      'buttonsAndMenu': 'c4c4c4'
+      'BlackLogo': '#232323',
+      'background-cl': '#7b9568',
+      'buttonsAndMenu': '#c4c4c4'
     },
     extend: {},
   },
