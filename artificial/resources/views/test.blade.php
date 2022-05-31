@@ -7,7 +7,7 @@
   <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
-  <h1 class="text-red-500">
+  <h1 class="text-red-500 font-sans">
     Hello world!
   </h1>
 </body>
