@@ -8,7 +8,7 @@
 </head>
 <body>
 @include('layouts.navbar')
-  <h1 class="text-red-500">
+  <h1 class="bg-background-cl w-10">
     Hello world!
   </h1>
 </body>
