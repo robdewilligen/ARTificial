@@ -1,10 +1,6 @@
-$(document).ready(function(){
-    $('#nav-icon3').click(function(){
-        console.log("Menu Toggle");
-        $(this).toggleClass('open');
-    });
-});
+document.getElementById("nav-icon3").addEventListener("click", togglemenu);
 
-$(document).ready(function() {
-    console.log('js is ready')
-})
+function togglemenu() {
+    var element = document.getElementById("nav-icon3");
+    element.classList.toggle("open");
+}
