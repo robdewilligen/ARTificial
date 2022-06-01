@@ -8,8 +8,9 @@ module.exports = {
     colors: {
       'LogoGreen': '#058c42',
       'BlackLogo': '#232323',
-      'background': '#7b9568',
-      'buttonsAndMenu': '#c4c4c4'
+      'backgroundColor': '#7b9568',
+      'ButtonsAndMenu': '#c4c4c4',
+      'white': '#ffffff'
     },
     fontFamily: {
       'sans': ['Bungee'],
