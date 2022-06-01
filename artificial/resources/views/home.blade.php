@@ -8,6 +8,7 @@
     <title>Home</title>
 </head>
 <body class="bg-backgroundColor">
+    @include('layouts.navbar')
     <img src="#" >
 
     <h1 class="text-3xl text-white">Welkom!</h1>
