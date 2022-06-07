@@ -1,6 +1,12 @@
 document.getElementById("nav-icon3").addEventListener("click", togglemenu);
+document.getElementById("nav-icon3").addEventListener("click", toggleOpenMenu)
 
 function togglemenu(){
-    var element = document.getElementById("nav-icon3");
-    element.classList.toggle("open");
+    var burger = document.getElementById("nav-icon3");
+    burger.classList.toggle("open");
+}
+
+function toggleOpenMenu(){
+    var open = document.getElementById("menuList");
+    open.classList.toggle("hidden")
 }
