@@ -14,7 +14,8 @@ module.exports = {
       'blackLogo': '#232323',
       'background-cl': '#7b9568',
       'buttonsAndMenu': '#c4c4c4',
-      'white': '#ffffff'
+      'white': '#ffffff',
+      'black': '#000000'
     },
     extend: {},
   },

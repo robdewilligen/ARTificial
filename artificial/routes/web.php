@@ -24,3 +24,7 @@ Route::get('/test', function(){
 Route::get('/home', function(){
     return view('home');
 });
+
+Route::get('/feed', function(){
+    return view('feed');
+});
