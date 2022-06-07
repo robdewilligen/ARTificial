@@ -26,10 +26,10 @@
             </div>
             <div id="menuList" class="flex justify-end bg-buttonsAndMenu hidden rounded p-3">
                 <ul>
-                    <li>Home</li>
-                    <li>Biodiversiteit Meting</li>
-                    <li>Over ARTificial</li>
-                    <li>Duurzaamheidstips</li>
+                    <li> <a href="{{ 'home' }}">Home</a> </li>
+                    <li> <a href="#">Biodiversiteit Meting</a> </li>
+                    <li> <a href="{{ 'aboutUs' }}">Over ARTificial</a> </li>
+                    <li> <a href="#">Duurzaamheidstips </a> </li>
                 </ul>
             </div>
         </div>
