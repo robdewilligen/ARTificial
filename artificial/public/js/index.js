@@ -1,9 +1,4 @@
-/******/ (() => { // webpackBootstrap
-/******/ 	"use strict";
-/******/
-/******/
-/******/ })()
-;
+
 document.getElementById("nav-icon3").addEventListener("click", togglemenu);
 document.getElementById("nav-icon3").addEventListener("click", toggleOpenMenu);
 
