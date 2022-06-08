@@ -469,6 +469,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .mt-10 {
   margin-top: 2.5rem;
 }
+.ml-5 {
+  margin-left: 1.25rem;
+}
 .flex {
   display: flex;
 }

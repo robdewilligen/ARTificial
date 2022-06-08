@@ -25,6 +25,10 @@ Route::get('/start', function(){
     return view('start');
 });
 
-Route::get('/feed', function(){
+Route::get('/feed', function() {
     return view('feed');
+});
+
+Route::get('/tips', function(){
+    return view('tips');
 });

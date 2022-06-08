@@ -22,7 +22,7 @@
                 <li> <a href="{{ 'home' }}">Home</a> </li>
                 <li> <a href="#">Biodiversiteit Meting</a> </li>
                 <li> <a href="{{ 'aboutUs' }}">Over ARTificial</a> </li>
-                <li> <a href="#">Duurzaamheidstips </a> </li>
+                <li> <a href="{{ 'tips' }}">Duurzaamheidstips </a> </li>
             </ul>
         </div>
         <div id="menu" class="flex flex-col">
