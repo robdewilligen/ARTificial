@@ -17,8 +17,12 @@ Route::get('/aboutUs', function(){
     return view('aboutUs');
 });
 
-Route::get('/home', function(){
-    return view('home');
+Route::get('/', function(){
+    return view('start');
+});
+
+Route::get('/start', function(){
+    return view('start');
 });
 
 Route::get('/feed', function(){

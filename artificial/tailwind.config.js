@@ -12,8 +12,8 @@ module.exports = {
     colors: {
       'logoGreen': '#058c42',
       'blackLogo': '#232323',
-      'background-cl': '#7b9568',
-      'buttonsAndMenu': '#c4c4c4',
+      'background-cl': '#6db295',
+      'buttonsAndMenu': '#459772',
       'white': '#ffffff',
       'black': '#000000'
     },

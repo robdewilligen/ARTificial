@@ -9,14 +9,27 @@
 </head>
 <body class="bg-background-cl px-7">
 
-    <img src="#" alt="logo" >
+    <div>
+        <br>
+        <br>
+        <img src="{{asset('../img/logoWit.png')}}" alt="logo" class="my-15" >
+    </div>
+
+    <br>
+    <br>
 
     <h1 class="text-3xl text-white text-center">Hey pik!</h1>
 
     <p class="text-white text-center" >Welkom bij kunststroom</p>
     <br>
     <p class="text-white text-center">Kunststroom is een project waarmee de biodiversiteit gestimuleerd word om terug te keren naar de binnenstad van Rotterdam. </p>
+    <br>
     
-    <button class="bg-buttonsAndMenu px-3 rounded-sm">kunststroom</button>
+    <a class="rounded-sm">
+        <img class="" src="{{asset('../img/kunstStroom.png')}}" alt="logo" width="50%">
+        <p class="text-xl mx-auto">Kunststroom</p>
+    </a>
+
 </body>
 </html>
+
