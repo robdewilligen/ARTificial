@@ -20,7 +20,7 @@
         <div id="menuList" class="flex justify-end bg-buttonsAndMenu hidden rounded p-3">
             <ul>
                 <li> <a href="{{ 'home' }}">Home</a> </li>
-                <li> <a href="#">Biodiversiteit Meting</a> </li>
+                <li> <a href="{{ 'feed' }}">Biodiversiteit Meting</a> </li>
                 <li> <a href="{{ 'aboutUs' }}">Over ARTificial</a> </li>
                 <li> <a href="{{ 'tips' }}">Duurzaamheidstips </a> </li>
             </ul>

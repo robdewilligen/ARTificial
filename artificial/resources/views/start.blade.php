@@ -25,7 +25,7 @@
     <p class="text-white text-center">Kunststroom is een project waarmee de biodiversiteit gestimuleerd word om terug te keren naar de binnenstad van Rotterdam. </p>
     <br>
     
-    <a class="rounded-sm">
+    <a class="" href="{{url('home')}}">
         <img class="" src="{{asset('../img/kunstStroom.png')}}" alt="logo" width="50%">
         <p class="text-xl mx-auto">Kunststroom</p>
     </a>
