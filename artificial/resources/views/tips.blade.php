@@ -51,6 +51,6 @@
         <div id="alternatief" class="hidden">
             @include('tips.tips')
         </div>
-<script type="text/javascript" src="{{asset('js/index.js')}}"></script>
+<script type="text/javascript" src="{{asset('js/tips.js')}}"></script>
 </body>
 </html>
