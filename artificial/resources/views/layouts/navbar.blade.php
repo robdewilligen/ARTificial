@@ -15,7 +15,7 @@
 
 <nav class="px-2 sm:px-4 py-2.5 bg-background-cl">
     <div class="container flex flex-wrap justify-between items-center mx-auto bg-background-cl">
-        <img src="../resources/IMG/logoWit.png" alt="logo" width="100px" height="100px">
+        <img src="{{ asset('../img/logoWit.png') }}" alt="logo" width="100px" height="100px">
         {{-- Menu --}}
         <div id="menuList" class="flex justify-end bg-buttonsAndMenu hidden rounded p-3">
             <ul>
