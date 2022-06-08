@@ -21,8 +21,8 @@ Route::get('/', function(){
     return view('start');
 });
 
-Route::get('/start', function(){
-    return view('start');
+Route::get('/home', function(){
+    return view('home');
 });
 
 Route::get('/feed', function() {
